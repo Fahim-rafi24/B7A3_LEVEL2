@@ -1,4 +1,13 @@
 -- =========================================================================
+-- create database if not exists football_ticket_db
+-- =========================================================================
+
+-- DROP DATABASE IF EXISTS football_ticket_db;
+-- CREATE DATABASE football_ticket_db;
+
+
+
+-- =========================================================================
 -- SYSTEM: Football Ticket Booking System Database Setup
 -- =========================================================================
 
