@@ -128,7 +128,7 @@ INSERT INTO Bookings (booking_id, user_id, match_id, seat_number, payment_status
 (511, 10, 111, 'I-11', 'Confirmed', 200.00),
 (512, 11, 112, 'J-03', 'Pending', 180.00),
 (513, 12, 113, 'K-18', 'Confirmed', 170.00),
-(514, 13, 114, 'L-22', 'Sold Out?', NULL, 160.00),
+(514, 13, 114, 'L-22', NULL, 160.00),
 (515, 14, 115, 'M-09', 'Confirmed', 130.00),
 (516, 15, 116, 'N-14', 'Pending', 125.00),
 (517, 16, 117, 'O-01', 'Confirmed', 145.00),

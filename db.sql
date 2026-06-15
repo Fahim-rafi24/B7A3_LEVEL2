@@ -2,7 +2,7 @@
 -- create database if not exists football_ticket_db
 -- =========================================================================
 
--- DROP DATABASE IF EXISTS football_ticket_db;
+-- DROP DATABASE IF EXISTS football_ticket_db WITH (FORCE);
 -- CREATE DATABASE football_ticket_db;
 
 
