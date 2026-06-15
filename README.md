@@ -12,6 +12,8 @@ This project is a comprehensive database design and SQL querying assignment aime
 The system manages football fans, tournament matches, and individual ticket booking receipts, ensuring strict referential integrity.
 
 ### 🗄️ ERD Design
+🌐 [Live ERD URL](https://lucid.app/lucidchart/a9634acb-c6c3-450b-9342-f35c1f785887/edit?viewport_loc=-184%2C740%2C1859%2C868%2C0_0&invitationId=inv_09bee59c-360f-4d6c-9f73-4df97a369e70)
+
 The system implements the following relationships:
 - **One to Many**: One User → Many Bookings.
 - **Many to One**: Many Bookings → One Match.
